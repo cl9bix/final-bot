@@ -1,0 +1,11 @@
+Hello,hello,hello!
+
+This bot created by boys from team 6!
+
+This bot can replace your phone if you are crazy!
+Pick 'Address Book' for create your address book.
+'Sort' - for sort your files.
+Or 'Notes' for write shopping list or memoirs!
+
+Lets go!
+* for end print 'Exit'

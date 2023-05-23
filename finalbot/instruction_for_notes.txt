@@ -1,0 +1,16 @@
+Hi!
+This is a simple instruction for Notes-mode.
+Here you can write and save any yours information.
+
+For ADD new note write 'add' and after start write what you want
+(ofcourse, if you need hashtags - use it!)
+Warning: use Enter only for save note
+
+If you want change note: print "Change", name of note and new information.
+For remove note you can use command "remove" and print the name of note.
+
+Forgot the name of note? Use commands 'show all', 'find' or 'search' - for hashtags.
+
+For help - print "help"
+For exit print -"return"
+

@@ -1,0 +1,8 @@
+Open terminal and type the following commands:
+-> git clone https://github.com/Dmytro-Babenko/console-helper-bot.git
+-> cd console-helper-bot
+-> pip install -e .
+or it could be
+-> python setup.py install
+then run it up by command
+-> console-bot

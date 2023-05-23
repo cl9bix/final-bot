@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" modified="2023-05-08T11:17:20.088Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="a5PttSdlXzxxSMt1tle6" version="21.2.9" type="github">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="17acba5748e5396b-1" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="820" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-2" value="console_bot.classes" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-4" value="console_bot.handlers" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-5" value="console_bot.Notes" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-6" value="console_bot.ab_work" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-7" value="console_bot.sort" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-8" value="console_bot.main" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-9" value="console_bot" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-8" target="oNBQL_f2rRBlvNCXAejw-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-8" target="oNBQL_f2rRBlvNCXAejw-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-8" target="oNBQL_f2rRBlvNCXAejw-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="320" as="sourcePoint" />
+            <mxPoint x="500" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-8" target="oNBQL_f2rRBlvNCXAejw-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="330" />
+              <mxPoint x="400" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-7" target="oNBQL_f2rRBlvNCXAejw-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="620" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-7" target="oNBQL_f2rRBlvNCXAejw-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+              <mxPoint x="360" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-6" target="oNBQL_f2rRBlvNCXAejw-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="299.5" as="sourcePoint" />
+            <mxPoint x="650" y="299.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-5" target="oNBQL_f2rRBlvNCXAejw-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="290" as="sourcePoint" />
+            <mxPoint x="660" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNBQL_f2rRBlvNCXAejw-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="oNBQL_f2rRBlvNCXAejw-4" target="oNBQL_f2rRBlvNCXAejw-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="299.5" as="sourcePoint" />
+            <mxPoint x="740" y="299.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

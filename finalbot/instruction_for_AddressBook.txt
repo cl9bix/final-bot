@@ -1,0 +1,19 @@
+Hi there!
+
+It's your Address Book!
+You can add new contact with command 'Add', you also can add new information to existing contact.
+Print name, phone: 'phone here', birthday: 'birthday', email: 'email', address: 'address'
+
+ For remove contact print 'Remove' and name of contact, for removing phone.
+ For change contact information  - print 'change' 'field', name of contact and new value.
+ Forgot contact full name? Just print 'find' and any letters of name
+ If you like to congratulate people - use command 'upcoming birthdays' and amount of days
+ ex. if you want to see who got a birthday on this week use 7
+
+ For all contacts use command 'show all', for part - 'show part'
+ If you want to know days before somebody birthday write command 'days to birth' and contact name
+ 
+
+For saving - print "save"
+For help - print "help"
+For exit print -"return"

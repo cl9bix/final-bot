@@ -1,0 +1,7 @@
+Hello!
+
+You want to sort some folder with garbage?
+print - "sort" and path to folder
+But be careful, it cant work if folder was sorted.
+
+For exit print -"return"
