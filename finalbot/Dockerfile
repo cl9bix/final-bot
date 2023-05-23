@@ -8,4 +8,4 @@ ENV PYTHONPATH /app/console_bot
 
 RUN python setup.py install
 
-CMD ["console-bot"]
+CMD ["python", "__main__.py"]
